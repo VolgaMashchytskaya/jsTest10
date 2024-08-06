@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(242, 242, 230);
+}
+
+.container {
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
+
+
+h1{
+    color: #b2a8a8;
+    display: inline;
+}
+
+h3{
+    color: #625d5d;
+    display: inline-block;
+    margin-right: 100px;
+
+    
+}
+
+
+.items{
+    width: 60%;
+    text-align: justify;
+}
+
+.result{
+    display: inline-block;
+    font-size: 20px;
+   
+}
